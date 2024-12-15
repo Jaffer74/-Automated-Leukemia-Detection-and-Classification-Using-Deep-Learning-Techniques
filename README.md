@@ -74,7 +74,7 @@ Below is the architecture of the **Automated Leukemia Detection System**:
 ## 📄 Report  
 
 You can view the detailed project report here:  
-[Automated Leukemia Detection Report](./Automated Leukemia Detection System.pdf)
+[Automated Leukemia Detection Report](https://github.com/Jaffer74/Automated-Leukemia-Detection-and-Classification-Using-Deep-Learning-Techniques/blob/main/Automated%20Leukemia%20Detection%20System.pdf)
 
 
 ## 🔧 Requirements  
