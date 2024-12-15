@@ -23,7 +23,20 @@ An advanced deep learning project for **classifying leukemia** using microscopic
 - **Description**: 15,135 labeled blood cell images, categorized into:  
   - `hem`: Healthy cells (Hematological Malignancies)  
   - `all`: Leukemic cells (Acute Lymphoblastic Leukemia)  
-- **Preprocessing**: Normalization, augmentation (rotation, zooming, shearing), and noise correction.  
+- **Preprocessing**: Normalization, augmentation (rotation, zooming, shearing), and noise correction.
+
+## 🖼️ Architecture  
+
+Below is the architecture of the **Automated Leukemia Detection System**:
+
+![Model Architecture](./images/model_architecture.png)
+
+### Description:
+- **Input**: Microscopic blood cell images.
+- **Preprocessing**: Image normalization, augmentation, and noise correction.
+- **Model**: **EfficientNet-B0**, **ResNet-50**, **InceptionV3** with multi-head attention.
+- **Output**: Classified as **HEM** (healthy) or **ALL** (leukemia).
+
 
 ---
 
