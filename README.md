@@ -19,7 +19,7 @@ An advanced deep learning project for **classifying leukemia** using microscopic
 ---
 
 ## 📂 Dataset  
-- **Source**: [C-NMC Leukemia Dataset](https://www.kaggle.com/competitions/c-nmc-2019/data)  
+- **Source**: [C-NMC Leukemia Dataset](https://www.kaggle.com/datasets/andrewmvd/leukemia-classification)  
 - **Description**: 15,135 labeled blood cell images, categorized into:  
   - `hem`: Healthy cells (Hematological Malignancies)  
   - `all`: Leukemic cells (Acute Lymphoblastic Leukemia)  
