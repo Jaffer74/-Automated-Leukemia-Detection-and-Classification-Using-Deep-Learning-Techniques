@@ -29,7 +29,7 @@ An advanced deep learning project for **classifying leukemia** using microscopic
 
 Below is the architecture of the **Automated Leukemia Detection System**:
 
-![Model Architecture](./images/model_architecture.png)
+![Model Architecture](architecture.jpeg)
 
 ### Description:
 - **Input**: Microscopic blood cell images.
@@ -71,6 +71,11 @@ Below is the architecture of the **Automated Leukemia Detection System**:
 - Confusion matrix analysis showcased robust classification with minimal misclassifications.  
 
 ---
+## 📄 Report  
+
+You can view the detailed project report here:  
+[Automated Leukemia Detection Report](./reports/Automated_Leukemia_Detection_Report.pdf)
+
 
 ## 🔧 Requirements  
 - Python 3.7+  
